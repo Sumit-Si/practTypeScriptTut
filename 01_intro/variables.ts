@@ -28,12 +28,14 @@ hero = getHero();
 
 interface GetNum
 {
+    Name:String
     Number: number
 }
 
 const number =
 {
+    name:'Aman',
     number: 5
 }
 
-console.log(number.number);
+console.log(number.name);
