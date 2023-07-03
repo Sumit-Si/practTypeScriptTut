@@ -1,6 +1,6 @@
-// console.log("Sumit");
+// console.log("Aman");
 // var user = {
-//     name: "Sumit",
+//     name: "Aman",
 //     age: 10
 // };
 // console.log(user.age);
