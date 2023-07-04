@@ -1,8 +1,8 @@
-console.log("Sumit");
+console.log("Aman");
 
 let user = {
-    name: "Sumit",
+    name: "Aman",
     age: 10
 }
 
-console.log(user.name);
+console.log(user.age);

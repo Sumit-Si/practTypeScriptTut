@@ -19,8 +19,23 @@ console.log(isLoggedIn);
 let hero:string;
 
 function getHero() {
-    return "krishna";
+    return "Jai Shri Krishna";
     // return true;
 }
 
 hero = getHero();
+
+
+interface GetNum
+{
+    Name:String
+    Number: number
+}
+
+const number =
+{
+    name:'Aman',
+    number: 5
+}
+
+console.log(number.name);
